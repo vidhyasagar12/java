@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Extract method &apos;private void extracted() throws Throwable &apos; from &apos;FacultyFeedback.FacultyFeedbackSystem()&apos; to &apos;FacultyFeedback&apos;&#x0D;&#x0A;- Original project: &apos;Project&apos;&#x0D;&#x0A;- Method name: &apos;extracted&apos;&#x0D;&#x0A;- Destination type: &apos;FacultyFeedback&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;extracted&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;{FacultyFeedback.java" name="extracted" replace="false" selection="944 10" stamp="1678354478366" version="1.0" visibility="2"/>
-</session>
