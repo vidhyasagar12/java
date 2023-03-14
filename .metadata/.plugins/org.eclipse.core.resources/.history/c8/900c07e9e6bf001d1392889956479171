@@ -1,0 +1,14 @@
+package p1;
+
+public class shapedemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+    cuboid c = new cuboid();
+    c.b=20.0;
+    c.h= 10.0;
+    c.l= 30.0;
+    System.out.println(c.findvolume());
+	}
+
+}
